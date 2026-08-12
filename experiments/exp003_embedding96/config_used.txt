@@ -1,0 +1,48 @@
+Experiment: exp003_embedding96
+Purpose: Intermediate embedding-dimension ablation.
+
+Single experimental change:
+n_embd: 128 -> 96
+
+Exact training configuration:
+dataset=shakespeare_char
+dataset_path=data/shakespeare_char
+n_embd=96
+n_layer=4
+n_head=4
+block_size=64
+batch_size=12
+gradient_accumulation_steps=1
+max_iters=2000
+lr_decay_iters=2000
+eval_iters=20
+log_interval=1
+dropout=0.0
+optimizer=AdamW (unfused on CPU)
+learning_rate=0.001
+min_lr=0.0001
+warmup_iters=100
+beta2=0.99
+device=cpu
+compile=False
+random_seed=1337 (nanoGPT default)
+
+Unchanged from Experiment 001 and Experiment 002:
+n_layer=4
+n_head=4
+block_size=64
+batch_size=12
+gradient_accumulation_steps=1
+max_iters=2000
+lr_decay_iters=2000
+eval_iters=20
+log_interval=1
+dataset=shakespeare_char
+optimizer=AdamW
+learning_rate=0.001
+min_lr=0.0001
+warmup_iters=100
+beta2=0.99
+device=cpu
+compile=False
+random_seed=1337
