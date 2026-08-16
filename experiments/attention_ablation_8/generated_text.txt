@@ -1,0 +1,190 @@
+Overriding: out_dir = C:\Users\amitc\OneDrive\Desktop\Research\NanoGpt\nanoGPT\experiments\attention_ablation_8
+Overriding: device = cpu
+number of parameters: 0.31M
+Loading meta from data\shakespeare_char\meta.pkl...
+
+Do proves of may droth him such all the eaby's a ding insth,
+The non theer sto such play wrives at that worly.
+
+GLORIOA:
+Of not peath say sire, mee fardil hear my shall.
+Sot and Yat main fiest fels he gring
+And will coun hear pear his to be agaved
+Hong you all with the bagation fains for the
+All fie come death and
+Shames, when, it you such ild to mant your giver.
+
+MEERDIUSTE:
+The thee, with us weread, thou spear andot,
+And then grove mate to sabulk, this ap last and this
+Mon and mistles word fio
+---------------
+
+What here of perveres! I old the caust be lascce;
+we'Th say sit grue the the bert all'd moun corrcai;
+Ar
+I of the bake for happeast ongry ith gruch dime
+With is rie court my the know world, her
+Bends to theim me a comphich afffel your her
+And theser that thy way on befford: that will with nought,
+This his thim tome his bead liboin?
+
+SINVIR:
+A word by thand it this thee and Good sallo:
+But your not; add and for in lord.
+
+HENRY ENRY Y:
+I shall nie our a comme catire have be my cont
+With revine: sw
+---------------
+
+
+CAUSYAR:
+That gain her me, who.
+
+WIShee shall that poil bether with may wheit all thee may
+And to reace inster of eare
+Be than rie with to did has like and the beath!
+Of his qurar, and peak as this of heave.
+More of grow comanstin of the sat snow hath is virt.
+
+SARTESS:
+By sit the sriety seels
+All with these that his made full and sword, be of wit lear
+Frower there pin of our come him mining;
+Bout that Aup the course that shall in that be come
+eversce on ther compques prost eagartue
+'they poin 
+---------------
+
+LUCIO: lade, they were hold conse: I shall that we
+Ill now shill pain for they hou dimply their lid
+The be canse a hath; theis not thee soun thou, mist and rit.
+The is preaith than but the of our thy thee hise.
+
+LONG couse of she should, not of our of in me mustrait:
+For that hear nof midis, is and it on go:
+There bechilt leations good, of a at you:
+We work, for as your is fould,
+Mides that eye grouns his thou his have fraing of peak
+The takef you fornemeds hould dead;
+That call main oVran, arny
+---------------
+
+Nech of some have on the pout, and her, it our tears.
+
+MENENA:
+He this is, I we but of see stelen nears
+As brow frow in sthen seelfaicess plainke with to featk
+Coutifur he broveces rupsair. Cap, to the his wife way,
+Why paay doth thee and gruert sof all enemme,
+At sour the me; you sham streed a son noy gron! these
+And me your shall man bearts a my contiry:
+No ming quais the lasst in wear, you as in forn dealt
+Whenich have for live I pown to shall is somen,
+And this a his sornguiong fom a the win
+---------------
+
+And you hir have. Art the sway are are fath
+Thou for he or welliedit chim to of steent to weve,
+Hes tis offord ben all of from the fathilt
+But was happok hap prean weeld her madile
+At with his it man to man shalk this upouns theourb me a did
+As you, his his offery be.
+
+BENOMALABUS:
+Yechall, good marry father that him the king.
+
+COMINIUS:
+That bey seeld, where them? and the shall be shee?
+
+HUNGNIUS:
+You so jove pring oun my you
+Teach, will agaht, ther fither gill it
+with lave liscurated morous bu
+---------------
+
+Sech, and you.
+
+DUCHARSTI:
+Overy I own well give, and litty and of our like ass
+This the sbmy compore contace chimport at them;
+But you not the warme the my say treang
+And thou murnes you his tracce our a corsse.
+
+Secon, that you poust forw, have for you most
+Ae to have way do nearth have they gall vact
+Ay or lather shee gry.
+
+HANRY YORY MMAREENR:
+O lit is do alloank.
+
+Seed Ther fleed and son heach, bentalie, where prire
+bech mane Coty. Go sot thou sight homert. Mears,
+All bead deathiong be homo
+---------------
+
+
+NEON mather, tis a stol.
+
+ESBENJULA:
+Promet for hell, Ortand, sis to the a distied
+To my the all cowry bruter me, and have dirst!
+And theher, which lat the and and be be and
+The ruch deales, there hink of thide?
+
+PELANEO:
+And to immoserd, thou saift and in sun reven our nember,
+Out his fright, old gen goot this ha with rrews king,
+Ind shous misty do word our somel all hher gewing your,
+But take canneins Julationg the the are you.
+
+ANTIUS:
+So soment, and with the alk words, he fnom is peacch:
+To
+---------------
+
+The her, ville, and and man's and horm alt stroht hall to a your
+Turst and and wingme on a bengstiiang an be how
+'Thinked to way waick the fais sper wich they.
+
+CLARIO:
+And thou Richally her they suk undeenct?
+
+
+SICIOLd, Your make purs your macke,
+To lose dech apor dididich's fieds her Yealthed
+Thall theim hou, beet from him. gaing hape all.
+
+DARCUSTE:
+When pown Marra? st wit my to cimen light,
+A it you die lattis, all in folly I fair thee ipan!
+Oe the fath hose you not heaves of how ford.
+
+SARI
+---------------
+
+Ereat of gentiful not the we benive urse,
+My stas come, striathy at helquight.
+
+CAURIO:
+That maw so, and some had tome me him.
+
+BOLUCEO:
+You, trear mais accuss, bart courtie,
+Thou loys a more this leatts
+So meach ton a toublea?
+
+TARWIWARTES:
+Good see; at make him some, well.
+
+BRETIUS:
+Are, my and con a hink.
+
+TO were, that meach, of bight, he and not,
+And not all make for paie unlest loads his may hou!
+Wehot and you with bet distan: that tis lady.
+
+NEOLOP:
+Why this like furse the arn, a of beath
+---------------
