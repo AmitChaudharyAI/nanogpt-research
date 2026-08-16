@@ -1,0 +1,197 @@
+Overriding: out_dir = C:\Users\amitc\OneDrive\Desktop\Research\NanoGpt\nanoGPT\experiments\attention_ablation_7
+Overriding: device = cpu
+number of parameters: 0.31M
+Loading meta from data\shakespeare_char\meta.pkl...
+
+Do proves of may drom the more ears that his queed ond Lach,
+The not there sto such play. Found man to
+The moftt nime that I as pirtlen his is breed,
+To lake it the Fort to that say more fies speas he grow
+To revill count dainstia his to be as the sund you alll all
+the bagain to your courss of lieth;
+There ther a prieses, well, it you such is re
+'fath your giver. Whom, me you knee weell!
+
+Sech Could on besell---day of that then gron dirth this
+but that as pale word we ton parter fie.
+
+But the th
+---------------
+
+We you many therefoes! I old the cart king and this this
+Incelfon fort and sto from the moun corramin's hall staio
+Eve for hape of lovin?
+
+ANGUEENI:
+Nother so! grive or, thee; have and compece.
+Bend thee thim make, it his my it mofe,
+For she but thou brows you barth not come;
+To world but nough as thing
+so finformen. Gorther sond to bodd me here.
+
+MORITHABUS:
+You, the man and hold to wort your not;
+This dear faiLol to not light of sat
+en his nie our are this tater'd me be my confure
+That stakes 
+---------------
+
+COLUSY:
+No, you him here, come the my let
+have that polly it and shore our sit all thee may
+And to reace: as that wear breent my lave,
+And in it, my tas and the beath!
+
+CLOUMETES:
+Ore me, that bron to eath shave; word fort of witing
+That his mon me my alst frock bedser's it so me
+Wild by beeclsss of now thes compe his a this
+Here his of constorus your all fread.
+
+BUCINTOF NIUS:
+Herea, I ipintion us that Aup the course?
+
+TUKENGTHARD ERII:
+What your pock of that compques pars.
+
+CORIOLAH:
+I ye sir.
+---------------
+
+LUCINTES:
+What is were hold conse: I say, bonats
+With and morglent of for they hou dimp.
+
+KING ORK:
+HeaSt thy seach new; their sir that soun thou, mack
+His ritien of wilfe, the hart-mind seit of his hold
+This to much speact; thy not good not of our of in me
+mustraition lot sarreI to fried, how hat ond on
+geas here becition like bright;
+I that that that worth for as your ind;
+Why, gind head ceniog of sthou thee his have for not
+The shigh livere you for but would not thous alow
+Thoughin Vation, an
+---------------
+
+ISHERD Duch Grobleny the pout spuch head trour tepy beat,
+They his is nis, I will find seeps at wond wills brow.
+
+RLUCET:
+Ah; see? and woull,
+The whe hearfe as cartier. Now some,
+Ki wis him lave, and lief in fie, leed
+Heir puty ong
+And that bere son aleather, be the brothers:
+The as hour and and on night you nother frume,
+The shall man bear fall-lows thry his ming quain the
+They sid wear head and not but of the slives.
+
+Ferst Richis pown to shall is some ald
+Thou wif his sornguine, for bithe wis
+---------------
+
+And to a such, rervoter
+To wll and all father liefy a revilent to it chim.
+
+
+POMENIO:
+Welles, good his one to wenn all of
+We so yet hersial hour suck oou hap prean
+And the comed the their our if die tush.
+
+Secomen sto unddes by our the as in fany rews
+But a the ither.
+
+BENOMCELANUS:
+My hend good marry fath.
+
+WOMELO:
+I'll know it and I'll and of to me but a butt
+Whould the of cand the Gord hand, will thesA joldy comes
+Boout your noch, will agaht, no and, befle,
+Heir with lave liscurater and as bu
+---------------
+
+Sechon Handy it broe fithesevery diong the must
+NoOn rearthing is how shich as now be arn bmy
+And won contace controus and must thre his fait,
+Auth here fains belloung think our nears you my midath.
+
+LAUCENTHOF BERLAMENF:
+And you poust forw, have for you most teely on she
+That night a this peop all that our do a fraie,
+Ang your theer than gain thou ald in have agrank.
+In not be shall in the the pity beath sterd:
+That his be livene and thee sound of
+The you mart. This dead and our father lord tho
+---------------
+
+
+HENCIS:
+Be I tim a stol.
+
+ESBPOLLANCHEND:
+Now heen ries lard as bot ther and of me
+That stages, and so befeel me, and have dids.
+
+KING RICHA
+BOLLIO:
+May thou rign but be and you ruch deales,
+We but in is it.
+
+RACHENS VINCENF ERIIUS:
+Fead you say, fall thim! what my forf,
+To grot to hell righd, old and gretored for with reads,
+Nor ush will shonds souch fith's stement'd have gewid I good.
+
+JUEN PELIO:
+Nubse hove no the the are you.
+
+AUTINGHARD VIO:
+Who his Edway, may constred mean
+awill come held
+---------------
+
+I'e ham, vill from to and with now the alt shall
+Is land upe, gods in of plainnce of to and maght.
+
+IMBULANUSBET:
+But agait is thou strity rans?
+
+SIGSICKARD OMARE:
+My do we thou Richald.
+
+MERIMNIO:
+Here lonk, at not nod the arm,
+Shall you thouh comese you dech and fair dich's
+They batt Yeavered a kinst and hour beet from him.
+
+HERY ERY EHMare,
+Aut my ben enoth haver a? stay to stry,
+As a light our the hade deattes, all in for him
+There that panguned.
+
+RIEO:
+Do have, not heaves of how some heads,
+---------------
+
+Egood of gent for not for we benors upon will the come,
+The are to in lake have arty your liesain.
+
+ROCETIO:
+Head to deat haven to all as of bears
+Beains cromna, fritced to morther's bear,
+And your yourse staid, reand counte
+Contile of the readst seer.
+
+FRAET VINCENTIL:
+I spleain I let read sirfuch,
+And here be so good, shem ach comn there: mon,
+And cread and and make for pay our ssenceats
+Which mear colly that a magain.
+
+CISTORLA:
+That this shay must not fall thinkle criusse the arn,
+His this b
+---------------
